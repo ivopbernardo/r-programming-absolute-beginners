@@ -65,7 +65,7 @@ After installing both programs, navigate to a file in the course materials - her
 
 ![Tutorial](assets/Tutorial1.PNG)
 
-Double click the file and this will launch a new R Studio window on your computer:
+Double clicking this file and this will launch a new R Studio window on your computer:
 
 ![Tutorial1](assets/Tutorial2.PNG)
 
