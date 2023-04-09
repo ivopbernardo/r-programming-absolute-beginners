@@ -15,7 +15,7 @@ These materials are the base for my book *"R Programming: R Language for Absolut
 
 Additionally, you can find me explaining these materials (and more advanced stuff) on my [Udemy](https://www.udemy.com/course/r-for-absolute-beginners/?referralCode=F839A741D06F0200F312) course - currently a best seller on the platform.
 
-<img src="assets/440b1e66804e59bf801b9d37ead168e86cae0339b0853ad67da867825ed59c1b.jfif" width="100" height="300">
+<img src="assets/440b1e66804e59bf801b9d37ead168e86cae0339b0853ad67da867825ed59c1b.jfif" width="400" height="600">
 
 This is what we approach during the learning scripts:
 
