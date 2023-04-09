@@ -63,19 +63,19 @@ To run the materials, you need to install R base on your computer. If you want, 
 
 After installing both programs, navigate to a file in the course materials - here I'm exemplifying with the script in "1 - R as a Calculator\01 - Using R as a Calculator.R":
 
-![Tutorial](assets/Tutorial 1.PNG)
+![Tutorial](assets/Tutorial1.PNG)
 
 Double click the file and this will launch a new R Studio window on your computer:
 
-![Tutorial1](assets/Tutorial 2.PNG)
+![Tutorial1](assets/Tutorial2.PNG)
 
 Select the piece of code you want to execute in the script window, for example `1 + 1` on the example below:
 
-![Tutorial2](assets/Tutorial 3.PNG)
+![Tutorial2](assets/Tutorial3.PNG)
 
 After selecting, you can run this code in two ways - either by using the Run button on the top right or by hitting `CTRL + Enter` (Windows) or `CMD + Enter` (Mac). After executing, you can see the result of your code in the command line window: 
 
-![Tutorial3](assets/Tutorial 4.PNG)
+![Tutorial3](assets/Tutorial4.PNG)
 
 
 
